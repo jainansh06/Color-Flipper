@@ -1,0 +1,28 @@
+body{
+    height: 100vh;
+    margin: 0;
+    background-color: #808080;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    background-color:burlywood;
+    border: 5px solid black;
+    width: 500px;
+    border-radius: 9px;
+}
+.h{
+    color:brown;
+    margin-left: 30%;
+}
+.b{
+    background-color: red;
+    width: 250px;
+    margin-left: 25%;
+}
+.code{
+    margin-left: 28%;
+    color: rebeccapurple;
+    font-size: larger;
+}
